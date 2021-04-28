@@ -2,7 +2,7 @@
 
 - [x] Intro a Producto 
 
-- [ ] Levantar Producto en local 
+- [x] Levantar Producto en local 
 
 - [ ] Acceso a los Servers 
 
