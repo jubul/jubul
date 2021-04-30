@@ -8,7 +8,7 @@
 
 - [x] Onboarding de algún Dev.
 
-- [ ] Tomar Owner de los Servers de Producto (y ni bien tenga todo ordenado en Producto, también sumar a Academy en esta gestión).
+- [x] Tomar Owner de los Servers de Producto (y ni bien tenga todo ordenado en Producto, también sumar a Academy en esta gestión).
 
 ### Organizar rápidamente algunos temas
 
