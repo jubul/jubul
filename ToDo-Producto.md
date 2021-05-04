@@ -4,7 +4,7 @@
 
 - [x] Levantar Producto en local 
 
-- [ ] Acceso a los Servers 
+- [x] Acceso a los Servers 
 
 - [x] Onboarding de algún Dev.
 
@@ -33,6 +33,8 @@
 - [ ] Terraform
 
 - [ ] UI Tests con tools como Selenium
+
+- [ ] Implementación de sistema de Tickets con Slack y Jira
 
 ### Algunas aclaraciones:
 
