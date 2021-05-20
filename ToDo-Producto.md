@@ -12,13 +12,13 @@
 
 ### Organizar rápidamente algunos temas
 
-- [ ] Configurar un servidor de Test (sería la previa a Staging) + Evitar que sea indexable + Ponerle capa de Auth
-
-- [ ] Evitar que Staging sea indexable + Ponerle capa de Auth
+- [x] Evitar que Staging sea indexable + Ponerle capa de Auth
 
 - [ ] En la medida de lo posible, asegurar que todos los entornos (Test, Staging y Prod) sea iguales en características y configs para disminuir la posibilidad de sorpresas al deployar en cada Stage
 
 - [ ] Optimizar las estrategias de deploy
+
+- [ ] Configurar un servidor de Test (sería la previa a Staging) + Evitar que sea indexable + Ponerle capa de Auth
 
 - [ ] Un tema que no está vinculado a Producto pero que deberíamos darle prioridad en algún momento, es el de hacer una revisión de todos los Servers viejos que están en marcha (ejemplo: checkinapp). Hay que ver si algo que se puede eliminar o juntar todos en un mismo droplet, ya que en su mayoría son Servers no Productivos (se puede analizar el tráfico y ver qué se puede compactar - a.k.a. poner muchos proyectos de poco tráfico en un único droplet para pagar menos ![:rat:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f400.png) ).
 
@@ -34,7 +34,7 @@
 
 - [ ] UI Tests con tools como Selenium
 
-- [ ] Implementación de sistema de Tickets con Slack y Jira
+- [ ] Implementación de sistema de Tickets con -Slack- y Jira
 
 ### Algunas aclaraciones:
 
