@@ -14,7 +14,7 @@
 
 - [x] Evitar que Staging sea indexable + Ponerle capa de Auth
 
-- [ ] En la medida de lo posible, asegurar que todos los entornos (Test, Staging y Prod) sea iguales en características y configs para disminuir la posibilidad de sorpresas al deployar en cada Stage
+- [x] En la medida de lo posible, asegurar que todos los entornos (Test, Staging y Prod) sea iguales en características y configs para disminuir la posibilidad de sorpresas al deployar en cada Stage
 
 - [ ] Optimizar las estrategias de deploy
 
